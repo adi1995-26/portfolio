@@ -4,7 +4,7 @@ My technical portfolio showcasing projects in cloud computing, networking, Linux
 # Adilene Rodriguez
 
 ## About Me
-Aspiring technology professional with coursework in cloud computing, networking, cybersecurity, programming, and data analytics.
+Aspiring technology professional with a Certificate in Cloud Computing and hands-on experience in networking, Linux administration, programming, cybersecurity, and data analytics. Skilled in Python, Java, C++, AWS, Tableau, and database concepts through academic projects and technical coursework. Passionate about technology, problem-solving, and continuous learning.
 
 ## Certifications
 - Cisco Networking Essentials
@@ -16,11 +16,14 @@ Aspiring technology professional with coursework in cloud computing, networking,
 - JavaScript
 - C
 - C++
+- Cloud Computing
 - AWS
 - Linux
 - Tableau
 - R
 - Databases
+- Networking
+- Computer Security 
 
 ## Projects
 
